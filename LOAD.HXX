@@ -2,7 +2,7 @@
 //   *** CLASS LOAD ***
 //   ******************
  
-
+//#define _CRT_SECURE_NO_WARNINGS
 #ifndef load_hxx
 
 #include "femcmpnn.hxx"

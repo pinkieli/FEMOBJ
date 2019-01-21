@@ -92,7 +92,9 @@ void  List :: printYourself ()
       if (values[i-1] == NULL)
 	 printf ("%d  Nil \n",i) ;
       else
-	 printf ("%d %lX\n",i,(long int)(values[i-1])) ;}
+	 //printf("this is line revised by Jinze Li.");
+     printf ("%d %lX\n",i,(long int)(values[i-1])) ; // revised by pinkie 2019/1/5
+     }
 }
 
 

@@ -4,10 +4,10 @@
 // ! friend functions may not be declared inline (C++\Views p 17)
  
 
-inline  min (int i,int j)
+inline  int min (int i,int j)
    { return (i<=j ? i : j) ; } 
 
-inline  max (int i,int j)
+inline  int max (int i,int j)
    { return (i>=j ? i : j) ; }
 
 
