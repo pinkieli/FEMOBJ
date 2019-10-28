@@ -1,12 +1,9 @@
 //   ******************
 //   *** CLASS LIST ***
 //   ******************
- 
-
 #ifndef list_hxx
 
 class FEMComponent ;
-
 
 class List
 /*

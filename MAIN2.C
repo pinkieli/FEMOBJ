@@ -40,4 +40,3 @@ main ()
    delete mesh ;
    printf ("end of destruction :       %.1f\n",timeNow()) ;
 }
-
